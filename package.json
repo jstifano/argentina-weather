@@ -1,0 +1,21 @@
+{
+  "name": "api-weather",
+  "version": "1.0.0",
+  "description": "Api to check the weather and time at Buenos Aires",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "api",
+    "javascript",
+    "express"
+  ],
+  "author": "Javier Stifano",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.16.2",
+    "request": "2.83.0"
+  }
+}
