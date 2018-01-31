@@ -11,7 +11,7 @@
 `npm start`
 
 - El servidor levatará en el puerto 3000 en localhost.
-- Los servicios se puede consumir mediante un REST CLIENT y visualizar la respuesta.
+- Los servicios se pueden consumir mediante un REST CLIENT y visualizar la respuesta.
 
 #### Los endpoints son los siguientes:
 
