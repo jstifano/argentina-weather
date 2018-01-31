@@ -4,13 +4,14 @@
 
 #### Para instalar las dependencias se debe ejecutar dentro de la carpeta raíz:
 
-  - `npm install`
+`npm install`
 
 #### Para iniciar el servidor local se debe ejecutar:
 
-- `npm start` **-->** El servidor levatará en el puerto 3000 en localhost.
+`npm start`
 
-#### Los servicios se puede consumir mediante un REST CLIENT y visualizar la respuesta.
+- El servidor levatará en el puerto 3000 en localhost.
+- Los servicios se puede consumir mediante un REST CLIENT y visualizar la respuesta.
 
 #### Los endpoints son los siguientes:
 
