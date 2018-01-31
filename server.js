@@ -1,3 +1,11 @@
+/**********************************************************
+* Server      :: Inicializador del API con Express        *
+* Description :: Inicializar rutas, políticas y listener  *
+*                para levantar el servidor.               *
+*                                                         *
+* @author     :: Javier Stifano <jstifano18@gmail.com>    *
+***********************************************************/
+
 var express = require('express'),
   app = express(),
   port = process.env.PORT || 3000
