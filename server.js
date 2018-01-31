@@ -26,7 +26,7 @@ routes(app);
  * Establecer respuesta en caso de elemento no encontrado
  **/
 app.use(function(req, res) {
-  res.status(404).send({url: req.originalUrl + ' not found'});
+  res.status(404).send({url: req.originalUrl + ' no se encontró'});
 });
 
 /**
