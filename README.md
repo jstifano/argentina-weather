@@ -2,8 +2,7 @@
 
 - Conexión con el API de http://api.apixu.com/v1
 
-#### Para instalar las dependencias utilizadas dentro del test 
-#### se debe ejecutar el siguiente comando dentro de la carpeta raíz:
+#### Para instalar las dependencias se debe ejecutar dentro de la carpeta raíz:
 
   - `npm install`
 
